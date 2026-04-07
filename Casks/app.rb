@@ -1,4 +1,4 @@
-cask "cloak" do
+cask "app" do
   version "0.2.0"
   sha256 "9304f5070cf0a4b9bdd3f1327ed5d39e47c318648f8172455c497005a8b45cb8"
 
