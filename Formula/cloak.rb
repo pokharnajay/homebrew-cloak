@@ -1,8 +1,8 @@
 class Cloak < Formula
   desc "Invisible overlay for Claude Code and OpenAI Codex"
   homepage "https://github.com/pokharnajay/cloak"
-  url "https://github.com/pokharnajay/cloak/releases/download/v0.2.0/Cloak-0.2.0-arm64.dmg"
-  sha256 "db7ec80237aa5f21effecad4990fb96b53e93265c2c9c8da7db9dc7f4835db6a"
+  url "https://github.com/pokharnajay/cloak/releases/download/v0.2.0/Cloak-0.2.0-arm64.zip"
+  sha256 "9304f5070cf0a4b9bdd3f1327ed5d39e47c318648f8172455c497005a8b45cb8"
   version "0.2.0"
 
   def install
