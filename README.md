@@ -5,14 +5,7 @@ Invisible overlay for Claude Code and OpenAI Codex.
 ## Install
 
 ```bash
-brew install pokharnajay/cloak/cloak
-```
-
-Or tap first:
-
-```bash
-brew tap pokharnajay/cloak
-brew install cloak
+brew install pokharnajay/cloak
 ```
 
 ## Update
