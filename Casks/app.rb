@@ -1,6 +1,6 @@
 cask "app" do
   version "0.2.0"
-  sha256 "a078e46b73db81bb4e64baa26a605030e0b7734e85709ecc86e005397ebda678"
+  sha256 "00a7d03c8dea17f857b88a435cd7254d44c7d9c41f2034b30858a89154dc4e38"
 
   url "https://github.com/pokharnajay/cloak/releases/download/v#{version}/Cloak-#{version}-arm64.zip"
   name "Cloak"
